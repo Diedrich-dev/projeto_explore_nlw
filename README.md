@@ -1,2 +1,3 @@
-# projeto_explore_nlw
-Aprendendo a utilizar html e css
+<p align="center">
+  <img src=".github/preview.png" alt="Demonstração do projeto" width="100%" />
+</p>
